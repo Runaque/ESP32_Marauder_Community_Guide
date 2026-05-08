@@ -2,6 +2,9 @@
 A comprehensive 98-page community guide for the ESP32 Marauder wireless analysis platform.
 
 
+<img width="4608" height="2080" alt="IMG20260508102807" src="https://github.com/user-attachments/assets/b31d2901-478b-49fa-a0ee-8af54b9316ab" />
+
+
 
 > **Written & compiled by [Runaque](https://github.com/Runaque) · Made in Antwerp 🇧🇪**
 
